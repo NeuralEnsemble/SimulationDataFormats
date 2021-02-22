@@ -1,0 +1,18 @@
+{
+  "ID": "3e32k92",
+  "UUID": "afds3ads-ad3r3-4f4a-88f4-ads3eadss",
+  "SubjectID": "con01",
+  "Desc": "atlastest3",
+  "DataFiles": [
+    "sub-con01_desc-atlastest3_coord-meg_id-3e32k92.tsv"
+  ],
+  "Description": {
+    "Name": "Coordinates",
+    "Type": "MEG"
+  },
+  "SourceData": {
+    "UUID": "12036e75-618b-4ad6-844d-9f0da45553bf",
+    "DOI": "doi:10.3972/water973.0145.db",
+    "URL": "https://kg.ebrains.eu/.../c165a630-2813-4d0b-a705-68c47549c302"
+  }
+}
