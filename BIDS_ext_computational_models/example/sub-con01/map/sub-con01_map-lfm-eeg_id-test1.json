@@ -1,0 +1,20 @@
+{
+  "ID": "test1",
+  "UUID": "487180cd-c326-4c2c-9447-5440d7862622",
+  "SubjectID": "con3",
+  "DataFiles": [
+    "sub-con3_map-lfm-eeg_id-test1.tsv"
+  ],
+  "Description": {
+    "Name": "Map",
+    "Type": "Lead-field matrix",
+    "SubTypes": [ "EEG" ]
+  },
+  "Notes": "Detailed description of preprocessing: sLORETA was used to...",
+  "Units": "mV"
+  "SourceData": {
+    "UUID": "12036e75-618b-4ad6-844d-9f0da45553bf",
+    "DOI": "doi:10.3972/water973.0145.db",
+    "URL": "https://kg.ebrains.eu/.../c165a630-2813-4d0b-a705-68c47549c302"
+  }
+}

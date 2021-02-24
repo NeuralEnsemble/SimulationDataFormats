@@ -1,0 +1,16 @@
+{
+  "ID": "fa3ac7da",
+  "UUID": "5c89d530-75ab-4afb-ba96-edc013f58f1e",
+  "Desc": "RWW",
+  "DataFiles": [
+    "code-nm_desc-RWW_id-fa3ac7da.c"
+  ],
+  "Description": {
+    "Name": "Code",
+    "Type": "NM",
+    "TypeLong": "Neural Model",
+    "Version": 1.0
+  },
+  "Notes": "This version contains a bug at line ...",
+  "EqFile": "eq-nm_desc-RWW_id-fb8c577a.json"
+}

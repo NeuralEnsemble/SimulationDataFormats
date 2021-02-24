@@ -1,0 +1,8 @@
+{
+  "Name": "Example Dataset Computational Models",
+  "BIDSVersion": "2.0",
+  "DatasetType": "derivative",
+  "License": "PDDL",
+  "Authors": ["Schirner, Michael", "Ritter, Petra"],
+}
+

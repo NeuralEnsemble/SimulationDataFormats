@@ -1,0 +1,30 @@
+{
+  "ID": "3dsa45",
+  "UUID": "csdb454w-ad3r3-4f4a-88f4-ads3eadss",
+  "SubjectID": "con01",
+  "Desc": "stimat8sv4",
+  "DataFiles": [
+    "sub-con01_desc-stimat8sv4_ts-sim_id-3dsa45.tsv"
+  ],
+  "Description": {
+    "Name": "Time Series",
+    "Type": "Simulated"
+  },
+  "Notes": "There was a strange warning when ...",
+  "Units": "s",
+  "Timesteps": 100000,
+  "Model": {
+    "Equations": "eq-nm_desc-RWW_id-fb8c577a.json",
+    "Network": "sub-con01_desc-MMPtestv3_net_id-c479d52f.json",
+    "Code": "code-nm_desc-RWW_id-fa3ac7da.c",
+    "IntegrationScheme": "HeunStochastic",
+    "Parameters": {
+      "W_E": 1.0,
+      "J_NMDA": [1.0, 2.1, 3.2]
+    },
+    "Variables": {
+      "S_i^E": 0.0
+    }
+  }
+}
+

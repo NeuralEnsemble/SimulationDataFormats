@@ -1,0 +1,30 @@
+{
+  "ID": "c479d52f",
+  "UUID": "c165a630-2813-4d0b-a705-68c47549c302",
+  "SubjectID": "con01",
+  "Desc": "MMPtestv3",
+  "DataFiles": [
+    "sub-con01_desc-MMPtestv3_net-distances_id-c479d52f.tsv",
+    "sub-con01_desc-MMPtestv3_net-weights_id-c479d52f.tsv",
+  ],
+  "Description": "Structural Connectivity",
+  "VolumeUnit": "mm^3",
+  "LengthUnit": "mm",
+  "Atlas": "Glasser",
+  "Notes": "Constructed by pipeline 3 with Atlas-subtype 4, details can be found at: ...",
+  "Nodes": {
+    "Count": 3,
+    "ID": ["PFC_L","OCC_R","BSTEM"],
+    "FullName": ["Left Prefrontal Cortex", "Right Occipital Cortex", "Brainstem"],
+    "IsCortical": [true, true, false],
+    "Volume": [100, 90, 50],
+    "CenterX": [3.1, 4.2, 5.3],
+    "CenterY": [6.2, 7.5, 8.2],
+    "CenterZ": [9.1, 10.2, 11.1]
+  },
+  "SourceData": {
+    "UUID": "12036e75-618b-4ad6-844d-9f0da45553bf",
+    "DOI": "doi:10.3972/water973.0145.db",
+    "URL": "https://kg.ebrains.eu/.../c165a630-2813-4d0b-a705-68c47549c302"
+  }
+}
